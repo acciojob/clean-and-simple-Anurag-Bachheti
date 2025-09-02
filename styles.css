@@ -1,1 +1,13 @@
-/*  your css code here. If applicable */
+table, th, td{
+	border: 1px solid #ccc;
+}
+th, td{
+	padding: 8px;
+	border-radius: 5px;
+}
+.even{
+	background-color: #ffffff;
+}
+.odd{
+	background-color: #f2f2f2;
+}
